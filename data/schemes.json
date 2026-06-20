@@ -1,0 +1,42 @@
+{
+  "PM-KISAN": {
+    "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "eligibility": "Small and marginal farmer families with combined land holding upto 2 hectares, subject to certain exclusion criteria for higher income groups",
+    "benefit": "₹6,000 per year in three equal installments of ₹2,000 each",
+    "how_to_apply": "Through Common Service Centers (CSCs), state government officials, or online at pmkisan.gov.in",
+    "official_link": "https://pmkisan.gov.in/",
+    "languages_available": ["Hindi", "English", "Regional Languages"]
+  },
+  "Jan_Dhan": {
+    "scheme_name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "eligibility": "Indian citizen (minor can have joint account with guardian), age 10 years and above",
+    "benefit": "Zero balance bank account, RuPay debit card, ₹2 lakh accident insurance, ₹30,000 life insurance, overdraft facility up to ₹10,000",
+    "how_to_apply": "Visit any bank branch with identity and address proof (Aadhaar sufficient for opening account)",
+    "official_link": "https://www.pmjdy.gov.in/",
+    "languages_available": ["Hindi", "English"]
+  },
+  "Atal_Pension_Yojana": {
+    "scheme_name": "Atal Pension Yojana (APY)",
+    "eligibility": "Indian citizens aged 18-40 years, not income tax payers",
+    "benefit": "Guaranteed minimum pension of ₹1,000/- or ₹2,000/- or ₹3,000/- or ₹4,000 or ₹5,000 per month at age 60",
+    "how_to_apply": "Through banks or post offices where you have savings account, or online via APY portal",
+    "official_link": "https://www.apy.gov.in/",
+    "languages_available": ["Hindi", "English", "Regional Languages"]
+  },
+  "Sukanya_Samriddhi": {
+    "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+    "eligibility": "Girl child below 10 years of age, Indian citizen",
+    "benefit": "Attractive interest rate (currently 7.6% compounded annually), tax benefits under Section 80C",
+    "how_to_apply": "Through authorized banks and India Post offices with girl's birth certificate and parent/guardian ID proof",
+    "official_link": "https://www.ssydta.in/",
+    "languages_available": ["Hindi", "English"]
+  },
+  "PM_Suraksha_Bima": {
+    "scheme_name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "eligibility": "Indian citizens aged 18-70 years with bank account",
+    "benefit": "₹2 lakh for accidental death and full disability, ₹1 lakh for partial disability",
+    "how_to_apply": "Through auto-debit from bank account (₹12 per year premium), available at all banks",
+    "official_link": "https://www.pmjdy.gov.in/social-security-schemes",
+    "languages_available": ["Hindi", "English"]
+  }
+}

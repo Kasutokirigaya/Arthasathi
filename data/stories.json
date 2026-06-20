@@ -1,0 +1,98 @@
+{
+  "emergency_fund": {
+    "common": {
+      "persona": "Priya Sharma, 28, Marketing Executive",
+      "income_range": "₹35,000-45,000 per month",
+      "type": "common",
+      "product": "emergency_fund",
+      "story_text": "Priya lives in Mumbai with her roommate. She earns ₹40,000 monthly but has never saved for emergencies. When her laptop broke during a crucial presentation, she had to borrow ₹15,000 from friends at 2% monthly interest. It took her 4 months to repay, causing stress and straining relationships.",
+      "outcome": "After this experience, Priya started saving ₹5,000 monthly in a separate savings account. After 10 months, she has ₹50,000 as her emergency fund.",
+      "lesson": "An emergency fund isn't optional - it's your financial shock absorber. Start small but start now.",
+      "verify_at": "rbi.org.in — for guidance on savings accounts"
+    },
+    "best": {
+      "persona": "Amit Patel, 35, Software Engineer",
+      "income_range": "₹80,000-1,00,000 per month",
+      "type": "best",
+      "product": "emergency_fund",
+      "story_text": "Amit from Bangalore learned about emergency funds early in his career. He automated savings of 20% of his salary into a liquid fund and high-yield savings account. When his father had a medical emergency requiring ₹3 lakhs, Amit could pay immediately without breaking his investments or taking loans.",
+      "outcome": "Amit's emergency fund covered 6 months of expenses. He continued his SIPs uninterrupted and his father recovered well. The peace of mind was invaluable.",
+      "lesson": "Planning today prevents panic tomorrow. An emergency fund protects your long-term wealth from short-term crises.",
+      "verify_at": "rbi.org.in — for guidance on emergency savings"
+    },
+    "worst": {
+      "persona": "Sneha Rao, 24, Graphic Designer",
+      "income_range": "₹20,000-25,000 per month",
+      "type": "worst",
+      "product": "emergency_fund",
+      "story_text": "Sneha from Hyderabad believed her credit card was her emergency fund. When she lost her job during lockdown, she maxed out her ₹1 lakh limit on essentials. With 40% annual interest and minimum payments, her debt grew to ₹1.3 lakhs in 6 months.",
+      "outcome": "It took Sneha 18 months of strict budgeting to clear her credit card debt. She missed investment opportunities and her credit score suffered significantly.",
+      "lesson": "Credit cards are not emergency funds. High-interest debt can derail years of financial progress in months.",
+      "verify_at": "rbi.org.in — for guidance on debt management"
+    }
+  },
+  "sip": {
+    "common": {
+      "persona": "Rajesh Kumar, 32, School Teacher",
+      "income_range": "₹25,000-35,000 per month",
+      "type": "common",
+      "product": "sip",
+      "story_text": "Rajesh from Jaipur started a ₹2,000 monthly SIP in an equity mutual fund 5 years ago. He missed only 3 months during his wedding. Despite market ups and downs, his investment grew to ₹1.6 lakhs.",
+      "outcome": "After 5 years, Rajesh has built discipline and confidence. He increased his SIP to ₹3,000 when he got a promotion and plans to start another SIP for his daughter's education.",
+      "lesson": "Consistency beats timing in mutual funds. Small, regular investments build wealth over time.",
+      "verify_at": "sebi.gov.in — verify mutual fund registration"
+    },
+    "best": {
+      "persona": "Ananya Desai, 29, Data Analyst",
+      "income_range": "₹60,000-80,000 per month",
+      "type": "best",
+      "product": "sip",
+      "story_text": "Ananya from Pune started SIPs worth ₹15,000 monthly across different fund categories when she turned 25. She reviewed her portfolio annually but never paused SIPs during market downturns, viewing them as buying opportunities.",
+      "outcome": "After 4 years, Ananya's investments grew to ₹9 lakhs. She's on track to buy her first home without straining her finances.",
+      "lesson": "Starting early gives compound interest time to work magic. Market timing is less important than time in market.",
+      "verify_at": "sebi.gov.in — verify mutual fund registration"
+    },
+    "worst": {
+      "persona": "Vikram Singh, 26, Sales Executive",
+      "income_range": "₹30,000-40,000 per month",
+      "type": "worst",
+      "product": "sip",
+      "story_text": "Vikram from Delhi stopped his ₹5,000 monthly SIP after 8 months when he saw a 5% loss. He kept the money in his savings account earning 3% interest. When he restarted SIPs 2 years later, he missed significant market growth.",
+      "outcome": "Had Vikram continued his SIPs, he would have had ₹40,000 more today. His attempt to 'time the market' cost him dearly.",
+      "lesson": 'Trying to time the market often means missing the market. Stay invested through ups and downs.',
+      "verify_at": "sebi.gov.in — verify mutual fund registration"
+    }
+  },
+  "fd": {
+    "common": {
+      "persona": "Lakshmi Venkatesh, 45, Bank Employee",
+      "income_range": "₹40,000-50,000 per month",
+      "type": "common",
+      "product": "fd",
+      "story_text": "Lakshmi from Chennai keeps her emergency fund and short-term savings in fixed deposits. She laddered her FDs - ₹1 lakh each for 6 months, 1 year, and 2 years - to balance returns with liquidity needs.",
+      "outcome": "When Lakshmi needed ₹2 lakhs for her son's college admission, she could break only the 6-month FD, minimizing interest loss. Her planned approach worked perfectly.",
+      "lesson": "Fixed deposits provide safety and predictable returns. Laddering helps balance liquidity and yield.",
+      "verify_at": "rbi.org.in — verify bank FD safety"
+    },
+    "best": {
+      "persona": "Mohammed Ahmed, 50, Small Business Owner",
+      "income_range": "₹60,000-80,000 per month",
+      "type": "best",
+      "product": "fd",
+      "story_text": "Mohammed from Lucknow uses FDs for goal-based saving. When his daughter was born, he started FDs maturing at ages 18 and 21 for her education. The guaranteed returns helped him plan precisely.",
+      "outcome": "When his daughter turned 18, the FD matured to exactly the amount needed for her engineering admission. No loans, no stress.",
+      "lesson": "For specific financial goals with known timelines, FDs offer certainty that market-linked products cannot.",
+      "verify_at": "rbi.org.in — verify bank FD safety"
+    },
+    "worst": {
+      "persona": "Deepak Joshi, 38, Factory Supervisor",
+      "income_range": "₹30,000-40,000 per month",
+      "type": "worst",
+      "product": "fd",
+      "story_text": "Deepak from Indore kept all his savings in long-term FDs for 5 years to get slightly higher interest. When his mother needed urgent surgery, he broke the FD prematurely, losing interest and paying penalties.",
+      "outcome": "Deepak received less money than expected and learned that locking funds too long creates liquidity problems during emergencies.",
+      "lesson": "Match your investment horizon with your financial goals. Don't sacrifice liquidity for slightly higher returns.",
+      "verify_at": "rbi.org.in — verify bank FD safety"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "fake_mutual_funds": {
+    "scam_type": "Fake Mutual Funds",
+    "description": "Fraudsters create fake mutual fund schemes promising high returns with little or no risk. They use fake documents, websites, and agents to lure investors.",
+    "red_flags": [
+      "Guaranteed high returns with low risk",
+      "Pressure to invest quickly",
+      "Unregistered agents or companies",
+      "Complex investment structures not easily understood",
+      "Requests for cash payments or unconventional payment methods"
+    ],
+    "real_example": "In 2020, SEBI busted a fake mutual fund scheme operating in Maharashtra that collected over ₹500 crores from investors by promising 30% monthly returns.",
+    "verification_step": "Always verify the mutual fund's registration with SEBI at sebi.gov.in → Mutual Funds → List of Registered Mutual Funds",
+    "helpline": "SEBI Toll Free: 1800 266 7575 / 1800 22 7575",
+    "verification_link": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doListingMF=yes"
+  },
+  "predatory_loan_apps": {
+    "scam_type": "Predatory Loan Apps",
+    "description": "Illegal lending apps that offer instant loans with minimal documentation but charge exorbitant interest rates and use deceptive practices for recovery.",
+    "red_flags": [
+      "Instant loan approval without proper verification",
+      "Interest rates much higher than bank rates (often 30-50% monthly)",
+      "Hidden charges and processing fees",
+      "Aggressive recovery tactics including harassment",
+      "Access to contacts, photos, and other personal data"
+    ],
+    "real_example": "In 2021, RBI warned about 60+ illegal lending apps operating in India that were trapping borrowers in debt cycles with interest rates exceeding 100% annually.",
+    "verification_step": "Check if the lending app is registered with RBI as an NBFC at rbi.org.in → NBFC List",
+    "helpline": "RBI Toll Free: 1800 11 4000",
+    "verification_link": "https://www.rbi.org.in/Scripts/BS_NBFCListDisplay.aspx"
+  },
+  "ponzi_schemes": {
+    "scam_type": "Ponzi/Pyramid Schemes",
+    "description": "Investment scams where returns are paid to earlier investors using funds from newer investors, creating an illusion of profitability until the scheme collapses.",
+    "red_flags": [
+      "Returns that seem too good to be true (consistently high monthly returns)",
+      "Emphasis on recruiting others to earn more money",
+      "Lack of clear investment strategy or product",
+      "Complex commission structures",
+      "Pressure to reinvest earnings rather than withdraw"
+    ],
+    "real_example": "The Saradha Group chit fund scam of 2013 collected over ₹20,000 crores from investors across Eastern India by promising high returns on chit fund investments.",
+    "verification_step": "Verify any investment scheme with SEBI or RBI before investing. Remember: if it sounds too good to be true, it probably is.",
+    "helpline": "SEBI Toll Free: 1800 266 7575 / 1800 22 7575",
+    "verification_link": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doListingMF=yes"
+  },
+  "whatsapp_investment_tips": {
+    "scam_type": "WhatsApp Investment Tips Scams",
+    "description": "Fraudsters use WhatsApp groups to share 'insider tips' about stocks or investments that are guaranteed to make money, often pumping up penny stocks.",
+    "red_flags": [
+      "Unsolicited investment tips via WhatsApp/Telegram",
+      "Claims of 'insider information' or 'secret tips'",
+      "Pressure to act fast before opportunity disappears",
+      "Focus on low-priced, volatile stocks (penny stocks)",
+      "Guarantees of profit or minimum returns"
+    ],
+    "real_example": "In 2022, SEBI issued warnings about multiple WhatsApp groups spreading false information about stocks to manipulate prices and defraud investors.",
+    "verification_step": "Never act on unsolicited investment tips. Always do your own research and verify information from official sources like company websites or stock exchanges.",
+    "helpline": "SEBI Toll Free: 1800 266 7575 / 1800 22 7575",
+    "verification_link": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doInvestorEducation=yes"
+  },
+  "fake_govt_schemes": {
+    "scam_type": "Fake Government Schemes",
+    "description": "Scammers create fake government welfare schemes or modify existing ones to trick people into sharing personal information or paying money for non-existent benefits.",
+    "red_flags": [
+      "Requests for payment to process government benefits",
+      "Asking for bank details or OTPs to verify eligibility",
+      "Schemes not listed on official government websites",
+      "Poor quality documents with spelling/grammar errors",
+      "Urgent calls to action with limited time offers"
+    ],
+    "real_example": "During the pandemic, fake PM Garib Kalyan Yojana schemes were circulated asking people to pay processing fees to receive benefits that never existed.",
+    "verification_step": "Always verify government schemes on official websites ending in .gov.in or .nic.in. Never pay money to receive government benefits.",
+    "helpline": "Government of India Helpline: 1800 11 1111",
+    "verification_link": "https://www.india.gov.in/"
+  },
+  "chit_fund_fraud": {
+    "scam_type": "Chit Fund Fraud",
+    "description": "While legitimate chit funds exist, fraudsters run illegal chit fund schemes that promise high returns but disappear with investors' money.",
+    "red_flags": [
+      "Unregistered chit fund companies",
+      "Returns significantly higher than bank FD rates",
+      "Lack of transparent auction process",
+      "Pressure to recruit more members",
+      "Difficulty in withdrawing funds or getting paperwork"
+    ],
+    "real_example": "In 2019, the Karnataka Police busted a chit fund scam that collected over ₹100 crores by promising 40% annual returns but operated without proper registration.",
+    "verification_step": "Verify chit fund registration with your state government's chit fund registrar or the Registrar of Companies.",
+    "helpline": "State Police Helpline: 100 (varies by state)",
+    "verification_link": "https://www.mca.gov.in/"
+  },
+  "upi_scam": {
+    "scam_type": "UPI Scams",
+    "description": "Fraudsters trick users into sharing UPI PINs or OTPs, or use fake UPI QR codes to steal money directly from bank accounts.",
+    "red_flags": [
+      "Requests for UPI PIN or OTP (legitimate services never ask for these)",
+      "Fake UPI QR codes sent for 'receiving money'",
+      "Links requesting UPI app installation or verification",
+      "Calls pretending to be from bank asking for UPI details",
+      "Screenshots showing money received when actually sent"
+    ],
+    "real_example": "In 2021, NPCI reported over 50,000 UPI fraud cases monthly, with victims losing money through social engineering tactics rather than technical breaches.",
+    "verification_step": "Never share your UPI PIN or OTP with anyone. Always verify UPI IDs and QR codes before scanning. Use official bank apps only.",
+    "helpline": "National Cyber Crime Helpline: 1930",
+    "verification_link": "https://www.npci.org.in/what-we-do/upi"
+  }
+}
